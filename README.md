@@ -6,3 +6,4 @@
 - https://www.shanelynn.ie/bar-plots-in-python-using-pandas-dataframes/
 - https://matplotlib.org/stable/gallery/lines_bars_and_markers/marker_reference.html
 - https://stackoverflow.com/questions/42223587/how-to-add-title-and-xlabel-and-ylabel
+- https://www.datacamp.com/tutorial/line-plots-in-matplotlib-with-python

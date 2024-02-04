@@ -8,3 +8,5 @@
 - https://stackoverflow.com/questions/42223587/how-to-add-title-and-xlabel-and-ylabel
 - https://www.datacamp.com/tutorial/line-plots-in-matplotlib-with-python
 - https://www.geeksforgeeks.org/python-pandas-extracting-rows-using-loc/
+- ask bcs
+- tutoring

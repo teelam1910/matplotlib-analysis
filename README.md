@@ -7,6 +7,15 @@
 The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
 
 
+## Images
+![bar chart](https://github.com/teelam1910/matplotlib-analysis/assets/132629216/62b225a7-d3e2-43f3-95aa-2c34eb4383b6)
+![pie chart](https://github.com/teelam1910/matplotlib-analysis/assets/132629216/31164fe7-c912-4bb6-85be-587a80848024)
+![line plot](https://github.com/teelam1910/matplotlib-analysis/assets/132629216/9a06d5d8-f709-44b5-a847-00df6fa6463c)
+![scatter plot](https://github.com/teelam1910/matplotlib-analysis/assets/132629216/e9f75f1f-fa79-41ea-94e9-e464268ea5b1)
+![corr and reg](https://github.com/teelam1910/matplotlib-analysis/assets/132629216/1c7dd1ee-4425-4bee-8579-6606d4f3fee2)
+
+
+
 
 ## Table of Contents
 - [Installation](#installation)

@@ -4,7 +4,7 @@
 
 
 ## Description
-The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens
+The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
 
 
 
@@ -13,26 +13,21 @@ The purpose of this study was to compare the performance of Pymaceuticals’ dru
 - [Usage](#usage)
 - [Credits](#credits)
 
-- [Features](#features)
-- [Tests](#tests)
+
 - [Contact](#contact)
+- [Resources](#resources)
 
 ## Installation
 matplotlib
 
 ## Usage
-++
+Run the jupyter notebook file, import the import matplotlib.pyplot as plt, pandas as pd and scipy.stats as st as well as the studye data files 
+- mouse_metadata_path = "data/Mouse_metadata.csv"
+- study_results_path = "data/Study_results.csv"
 
 ## Credits
 Tiffany La Mar
 
-
-
-## Features
-++
-
-## Tests
-++
 
 ## Contact
 If there are any questions of concerns, I can be reached at:
@@ -40,7 +35,7 @@ If there are any questions of concerns, I can be reached at:
 ##### [email: tiffanylamar1@gmail.com](mailto:tiffanylamar1@gmail.com)
 
 
-#resources
+## Resources
 - https://pandas.pydata.org/docs/reference/api/pandas.Series.plot.bar.html#pandas.Series.plot.bar
 - https://www.activestate.com/resources/quick-reads/how-to-access-a-column-in-a-dataframe-using-pandas/
 - https://www.shanelynn.ie/bar-plots-in-python-using-pandas-dataframes/
@@ -49,4 +44,4 @@ If there are any questions of concerns, I can be reached at:
 - https://www.datacamp.com/tutorial/line-plots-in-matplotlib-with-python
 - https://www.geeksforgeeks.org/python-pandas-extracting-rows-using-loc/
 - ask bcs
-- tutoring
+- ASU tutoring

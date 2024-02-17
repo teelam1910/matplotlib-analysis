@@ -1,4 +1,44 @@
-# matplotlib-analysis
+# Pymaceuticals Analysis (Matplotlib)
+
+
+
+
+## Description
+The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens
+
+
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+
+- [Features](#features)
+- [Tests](#tests)
+- [Contact](#contact)
+
+## Installation
+matplotlib
+
+## Usage
+++
+
+## Credits
+Tiffany La Mar
+
+
+
+## Features
+++
+
+## Tests
+++
+
+## Contact
+If there are any questions of concerns, I can be reached at:
+##### [github: teelam1910](https://github.com/teelam1910)
+##### [email: tiffanylamar1@gmail.com](mailto:tiffanylamar1@gmail.com)
+
 
 #resources
 - https://pandas.pydata.org/docs/reference/api/pandas.Series.plot.bar.html#pandas.Series.plot.bar
